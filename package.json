@@ -1,0 +1,15 @@
+{
+  "name": "saber-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode-terminal": "*",
+    "express": "*",
+    "socket.io": "*",
+    "openai": "*",
+    "qrcode": "*"
+  }
+}
